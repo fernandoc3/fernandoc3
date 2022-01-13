@@ -4,7 +4,6 @@
 
 - 🔭 Estou a procura de um trabalho
 - 🌱 Estou estudando HTML ,CSS ,JAVASCRIPT E REACTJS 
-- 😄 Pronouns: ele/dele
 
 
 
